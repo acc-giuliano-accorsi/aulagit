@@ -1,0 +1,8 @@
+add
+commit
+log
+branch
+checkout
+
+clone
+stash
